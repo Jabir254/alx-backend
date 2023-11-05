@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+'''render templates'''
+
 from flask import Flask , render_template
 app = Flask(__name__)
 
